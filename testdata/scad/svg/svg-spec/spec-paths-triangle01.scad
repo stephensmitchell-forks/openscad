@@ -1,1 +1,1 @@
-import("../../svg/svg-spec/spec-paths-triangle01.svg");
+import("../../../svg/svg-spec/spec-paths-triangle01.svg");

@@ -1,1 +1,1 @@
-import("../../svg/svg-spec/spec-shapes-circle01.svg");
+import("../../../svg/svg-spec/spec-shapes-circle01.svg");
